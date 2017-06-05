@@ -1,0 +1,4 @@
+services:
+    part_fire_mail_chimp.services.members:
+        class: PartFire\MailChimpBundle\Services\Members
+        arguments: ['%partfire_mailchimp_api_key%', '%partfire_mailchimp_list_id%']

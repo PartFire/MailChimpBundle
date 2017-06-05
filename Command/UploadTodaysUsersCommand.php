@@ -6,7 +6,7 @@
  * Time: 21:47
  */
 
-namespace Partfire\MailchimpBundle\Command;
+namespace Partfire\MailChimpBundle\Command;
 
 use PartFire\CommonBundle\Services\Output\Cli\ConsoleOutput;
 use PartFire\MailChimpBundle\Model\Dto\Member;
